@@ -1,0 +1,20 @@
+# Metamodel Pointer — Technology Radar Entry
+# Auto-generated from OpenDEAM v0.3.0 (ADR-0003). Do not edit manually.
+metamodel:
+  version: v0.3.0
+  entity_id: dea:entity-technology-radar-entry
+  class_alias: TRE
+  layer: L2
+  building_block: L2-innovation-foresight
+  viewer_url: "https://technehub-labs.github.io/metamodel/?entity=TRE"
+
+catalog:
+  name: Technology Radar Entry
+  repo: technehub-labs/dea-catalog-technology-radar
+  status: proposed
+
+links:
+  metamodel_repo: https://github.com/technehub-labs/dea-metamodel
+  root_model: https://github.com/technehub-labs/dea-architecture-framework
+  viewer: "https://technehub-labs.github.io/metamodel/?entity=TRE"
+  github: https://github.com/technehub-labs/dea-catalog-technology-radar
