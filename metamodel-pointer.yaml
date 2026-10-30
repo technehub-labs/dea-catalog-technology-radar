@@ -1,20 +1,32 @@
 # Metamodel Pointer — Technology Radar Entry
-# Auto-generated from OpenDEAM v0.3.0 (ADR-0003). Do not edit manually.
+#
+# Two consumers, two blocks (see FOUNDATIONS §5):
+#   - the top-level identity keys are consumed by the vendored
+#     regenerate_catalog.py to build CATALOG.yaml's catalog block;
+#   - the `metamodel:` allocation block is validated by
+#     dea-architecture-framework validate-against-model.yml
+#     against the pinned root-model ref (v0.8.0), and asserted
+#     locally by scripts/check_pointer.py.
+#
+# Allocation changes go through the root model, not this file.
+id: dea:catalog-technology-radar
+name: Technology Radar Entry
+abbreviation: TRE
+version: 0.1.0
+status: active
+metamodel_version: 1.0.0
+owner: TechNeHub Labs
+description: |
+  An emerging technology or technique being tracked (assess/trial/adopt/hold) prior to becoming a governed L5 Technology.
 metamodel:
-  version: v0.3.0
-  entity_id: dea:entity-technology-radar-entry
-  class_alias: TRE
-  layer: L2
   building_block: L2-innovation-foresight
-  viewer_url: "https://technehub-labs.github.io/metamodel/?entity=TRE"
-
-catalog:
-  name: Technology Radar Entry
-  repo: technehub-labs/dea-catalog-technology-radar
-  status: proposed
-
+  class_alias: TRE
+  entity_id: dea:entity-technology-radar-entry
+  layer: L2
+  version: v0.8.0
+  viewer_url: https://technehub-labs.github.io/metamodel/?entity=TRE
 links:
   metamodel_repo: https://github.com/technehub-labs/dea-metamodel
   root_model: https://github.com/technehub-labs/dea-architecture-framework
-  viewer: "https://technehub-labs.github.io/metamodel/?entity=TRE"
+  viewer: https://technehub-labs.github.io/metamodel/?entity=TRE
   github: https://github.com/technehub-labs/dea-catalog-technology-radar
