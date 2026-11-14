@@ -1,6 +1,8 @@
-# TRE-CAT-03A: TechnologyRadarEntry Candidate Corpus
+# CR-CR-TRE-CAT-03A: TechnologyRadarEntry Candidate Corpus
 
 **Status**: Landed (this PR)
+
+**Naming/numbering correction**: this CR landed as `TRE-CAT-03A` without the house `CR-` prefix (driver defect, fixed in the programme tooling). Renamed to `CR-TRE-CAT-03A` by the naming-correction CR (CR-TRE-CAT-06); content unchanged.
 **Layer**: Catalog content (candidate corpus intake)
 **Owner**: Emmanuel A. Otchere
 **Date**: 2026-11-15
