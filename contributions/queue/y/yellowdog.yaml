@@ -1,21 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: cncf-landscape.json
 source_ref: CNCF Landscape / Platform / PaaS/Container Service / YellowDog
 name: YellowDog
-description: YellowDog — PaaS/Container Service entry in the CNCF Landscape; homepage https://yellowdog.co/.
-  Radar ring value is provisional.
+description: YellowDog — PaaS/Container Service entry in the CNCF Landscape; homepage
+  https://yellowdog.co/. Radar ring value is provisional.
 radar_ring: assess
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://landscape.cncf.io/ (CNCF Landscape: Platform / PaaS/Container Service / YellowDog)'
-  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring is a provisional programmatic
-    mapping from the project maturity flag (graduated=adopt, incubating=trial, sandbox/unflagged=assess,
-    archived=hold); per-organization radar position is a canonical-admission decision.
+    reference: 'https://landscape.cncf.io/ (CNCF Landscape: Platform / PaaS/Container
+      Service / YellowDog)'
+  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring
+    is a provisional programmatic mapping from the project maturity flag (graduated=adopt,
+    incubating=trial, sandbox/unflagged=assess, archived=hold); per-organization radar
+    position is a canonical-admission decision.
 tags:
 - landscape
 - paas-container-service
 - platform
 slug: yellowdog
+assigned_id: dea:technology-radar-entry-yellowdog-qx3cwa
+admitted: '2026-11-14'

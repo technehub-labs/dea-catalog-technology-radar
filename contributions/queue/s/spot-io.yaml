@@ -1,22 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: cncf-landscape.json
-source_ref: CNCF Landscape / Observability and Analysis / Continuous Optimization / Spot.io
+source_ref: CNCF Landscape / Observability and Analysis / Continuous Optimization
+  / Spot.io
 name: Spot.io
-description: Spot.io — Continuous Optimization entry in the CNCF Landscape; homepage https://spot.io/.
-  Radar ring value is provisional.
+description: Spot.io — Continuous Optimization entry in the CNCF Landscape; homepage
+  https://spot.io/. Radar ring value is provisional.
 radar_ring: assess
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://landscape.cncf.io/ (CNCF Landscape: Observability and Analysis / Continuous Optimization
-      / Spot.io)'
-  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring is a provisional programmatic
-    mapping from the project maturity flag (graduated=adopt, incubating=trial, sandbox/unflagged=assess,
-    archived=hold); per-organization radar position is a canonical-admission decision.
+    reference: 'https://landscape.cncf.io/ (CNCF Landscape: Observability and Analysis
+      / Continuous Optimization / Spot.io)'
+  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring
+    is a provisional programmatic mapping from the project maturity flag (graduated=adopt,
+    incubating=trial, sandbox/unflagged=assess, archived=hold); per-organization radar
+    position is a canonical-admission decision.
 tags:
 - landscape
 - observability-and-analysis
 - continuous-optimization
 slug: spot-io
+assigned_id: dea:technology-radar-entry-spot-io-ju7qh4
+admitted: '2026-11-14'

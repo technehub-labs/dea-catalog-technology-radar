@@ -1,23 +1,27 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: cncf-landscape.json
-source_ref: CNCF Landscape / Special / Kubernetes Certified Service Provider / VA Linux Systems Japan
-  (KCSP)
+source_ref: CNCF Landscape / Special / Kubernetes Certified Service Provider / VA
+  Linux Systems Japan (KCSP)
 name: VA Linux Systems Japan (KCSP)
-description: VA Linux Systems Japan (KCSP) — Kubernetes Certified Service Provider entry in the CNCF Landscape;
-  homepage https://www.valinux.co.jp. Radar ring value is provisional.
+description: VA Linux Systems Japan (KCSP) — Kubernetes Certified Service Provider
+  entry in the CNCF Landscape; homepage https://www.valinux.co.jp. Radar ring value
+  is provisional.
 radar_ring: assess
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://landscape.cncf.io/ (CNCF Landscape: Special / Kubernetes Certified Service Provider
-      / VA Linux Systems Japan (KCSP))'
-  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring is a provisional programmatic
-    mapping from the project maturity flag (graduated=adopt, incubating=trial, sandbox/unflagged=assess,
-    archived=hold); per-organization radar position is a canonical-admission decision.
+    reference: 'https://landscape.cncf.io/ (CNCF Landscape: Special / Kubernetes Certified
+      Service Provider / VA Linux Systems Japan (KCSP))'
+  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring
+    is a provisional programmatic mapping from the project maturity flag (graduated=adopt,
+    incubating=trial, sandbox/unflagged=assess, archived=hold); per-organization radar
+    position is a canonical-admission decision.
 tags:
 - landscape
 - kubernetes-certified-service-provider
 - special
 slug: va-linux-systems-japan-kcsp
+assigned_id: dea:technology-radar-entry-va-linux-systems-japan-kcsp-ptfest
+admitted: '2026-11-14'

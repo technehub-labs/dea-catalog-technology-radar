@@ -1,22 +1,27 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: cncf-landscape.json
-source_ref: CNCF Landscape / App Definition and Development / Application Definition & Image Build / ModelPack
+source_ref: CNCF Landscape / App Definition and Development / Application Definition
+  & Image Build / ModelPack
 name: ModelPack
-description: ModelPack — Application Definition & Image Build entry in the CNCF Landscape (sandbox project);
-  homepage https://github.com/modelpack/model-spec. Radar ring value is provisional.
+description: ModelPack — Application Definition & Image Build entry in the CNCF Landscape
+  (sandbox project); homepage https://github.com/modelpack/model-spec. Radar ring
+  value is provisional.
 radar_ring: assess
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://landscape.cncf.io/ (CNCF Landscape: App Definition and Development / Application
-      Definition & Image Build / ModelPack)'
-  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring is a provisional programmatic
-    mapping from the project maturity flag (graduated=adopt, incubating=trial, sandbox/unflagged=assess,
-    archived=hold); per-organization radar position is a canonical-admission decision.
+    reference: 'https://landscape.cncf.io/ (CNCF Landscape: App Definition and Development
+      / Application Definition & Image Build / ModelPack)'
+  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring
+    is a provisional programmatic mapping from the project maturity flag (graduated=adopt,
+    incubating=trial, sandbox/unflagged=assess, archived=hold); per-organization radar
+    position is a canonical-admission decision.
 tags:
 - app-definition-and-development
 - sandbox
 - application-definition-image-build
 slug: modelpack
+assigned_id: dea:technology-radar-entry-modelpack-f3e6e5
+admitted: '2026-11-14'

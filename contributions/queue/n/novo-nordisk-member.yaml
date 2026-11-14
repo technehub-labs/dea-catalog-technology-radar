@@ -1,21 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: cncf-landscape.json
 source_ref: CNCF Landscape / CNCF Members / Silver / Novo Nordisk (member)
 name: Novo Nordisk (member)
-description: Novo Nordisk (member) — Silver entry in the CNCF Landscape; homepage https://www.novonordisk.com.
-  Radar ring value is provisional.
+description: Novo Nordisk (member) — Silver entry in the CNCF Landscape; homepage
+  https://www.novonordisk.com. Radar ring value is provisional.
 radar_ring: assess
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://landscape.cncf.io/ (CNCF Landscape: CNCF Members / Silver / Novo Nordisk (member))'
-  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring is a provisional programmatic
-    mapping from the project maturity flag (graduated=adopt, incubating=trial, sandbox/unflagged=assess,
-    archived=hold); per-organization radar position is a canonical-admission decision.
+    reference: 'https://landscape.cncf.io/ (CNCF Landscape: CNCF Members / Silver
+      / Novo Nordisk (member))'
+  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring
+    is a provisional programmatic mapping from the project maturity flag (graduated=adopt,
+    incubating=trial, sandbox/unflagged=assess, archived=hold); per-organization radar
+    position is a canonical-admission decision.
 tags:
 - cncf-members
 - landscape
 - silver
 slug: novo-nordisk-member
+assigned_id: dea:technology-radar-entry-novo-nordisk-member-cxcepg
+admitted: '2026-11-14'

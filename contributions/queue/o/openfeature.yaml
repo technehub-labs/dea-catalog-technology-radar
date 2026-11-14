@@ -1,22 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: cncf-landscape.json
 source_ref: CNCF Landscape / Observability and Analysis / Feature Flagging / OpenFeature
 name: OpenFeature
-description: OpenFeature — Feature Flagging entry in the CNCF Landscape (incubating project); homepage
-  https://openfeature.dev/. Radar ring value is provisional.
+description: OpenFeature — Feature Flagging entry in the CNCF Landscape (incubating
+  project); homepage https://openfeature.dev/. Radar ring value is provisional.
 radar_ring: trial
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://landscape.cncf.io/ (CNCF Landscape: Observability and Analysis / Feature Flagging
-      / OpenFeature)'
-  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring is a provisional programmatic
-    mapping from the project maturity flag (graduated=adopt, incubating=trial, sandbox/unflagged=assess,
-    archived=hold); per-organization radar position is a canonical-admission decision.
+    reference: 'https://landscape.cncf.io/ (CNCF Landscape: Observability and Analysis
+      / Feature Flagging / OpenFeature)'
+  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring
+    is a provisional programmatic mapping from the project maturity flag (graduated=adopt,
+    incubating=trial, sandbox/unflagged=assess, archived=hold); per-organization radar
+    position is a canonical-admission decision.
 tags:
 - incubating
 - observability-and-analysis
 - feature-flagging
 slug: openfeature
+assigned_id: dea:technology-radar-entry-openfeature-3za5ak
+admitted: '2026-11-14'

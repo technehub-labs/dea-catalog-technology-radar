@@ -1,21 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: cncf-landscape.json
 source_ref: CNCF Landscape / Runtime / Cloud Native Network / Open vSwitch
 name: Open vSwitch
-description: Open vSwitch — Cloud Native Network entry in the CNCF Landscape; homepage https://www.openvswitch.org/.
-  Radar ring value is provisional.
+description: Open vSwitch — Cloud Native Network entry in the CNCF Landscape; homepage
+  https://www.openvswitch.org/. Radar ring value is provisional.
 radar_ring: assess
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://landscape.cncf.io/ (CNCF Landscape: Runtime / Cloud Native Network / Open vSwitch)'
-  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring is a provisional programmatic
-    mapping from the project maturity flag (graduated=adopt, incubating=trial, sandbox/unflagged=assess,
-    archived=hold); per-organization radar position is a canonical-admission decision.
+    reference: 'https://landscape.cncf.io/ (CNCF Landscape: Runtime / Cloud Native
+      Network / Open vSwitch)'
+  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring
+    is a provisional programmatic mapping from the project maturity flag (graduated=adopt,
+    incubating=trial, sandbox/unflagged=assess, archived=hold); per-organization radar
+    position is a canonical-admission decision.
 tags:
 - landscape
 - runtime
 - cloud-native-network
 slug: open-vswitch
+assigned_id: dea:technology-radar-entry-open-vswitch-z49v7m
+admitted: '2026-11-14'

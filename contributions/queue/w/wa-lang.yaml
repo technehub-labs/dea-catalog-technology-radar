@@ -1,21 +1,24 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: cncf-landscape.json
 source_ref: CNCF Landscape / Wasm / Languages / Wa-lang
 name: Wa-lang
-description: Wa-lang — Languages entry in the CNCF Landscape; homepage https://wa-lang.github.io/. Radar
-  ring value is provisional.
+description: Wa-lang — Languages entry in the CNCF Landscape; homepage https://wa-lang.github.io/.
+  Radar ring value is provisional.
 radar_ring: assess
 evidence:
   sources:
   - kind: published-document
     reference: 'https://landscape.cncf.io/ (CNCF Landscape: Wasm / Languages / Wa-lang)'
-  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring is a provisional programmatic
-    mapping from the project maturity flag (graduated=adopt, incubating=trial, sandbox/unflagged=assess,
-    archived=hold); per-organization radar position is a canonical-admission decision.
+  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring
+    is a provisional programmatic mapping from the project maturity flag (graduated=adopt,
+    incubating=trial, sandbox/unflagged=assess, archived=hold); per-organization radar
+    position is a canonical-admission decision.
 tags:
 - landscape
 - languages
 - wasm
 slug: wa-lang
+assigned_id: dea:technology-radar-entry-wa-lang-wxusj6
+admitted: '2026-11-14'

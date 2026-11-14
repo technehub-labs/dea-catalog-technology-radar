@@ -1,23 +1,27 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: cncf-landscape.json
-source_ref: CNCF Landscape / CNCF Members / End User Supporter and Contributor / REWE International Dienstleistungsges.m.b.h.
-  (supporter)
+source_ref: CNCF Landscape / CNCF Members / End User Supporter and Contributor / REWE
+  International Dienstleistungsges.m.b.h. (supporter)
 name: REWE International Dienstleistungsges.m.b.h. (supporter)
-description: REWE International Dienstleistungsges.m.b.h. (supporter) — End User Supporter and Contributor
-  entry in the CNCF Landscape; homepage https://rewe-group.at/de. Radar ring value is provisional.
+description: REWE International Dienstleistungsges.m.b.h. (supporter) — End User Supporter
+  and Contributor entry in the CNCF Landscape; homepage https://rewe-group.at/de.
+  Radar ring value is provisional.
 radar_ring: assess
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://landscape.cncf.io/ (CNCF Landscape: CNCF Members / End User Supporter and Contributor
-      / REWE International Dienstleistungsges.m.b.h. (supporter))'
-  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring is a provisional programmatic
-    mapping from the project maturity flag (graduated=adopt, incubating=trial, sandbox/unflagged=assess,
-    archived=hold); per-organization radar position is a canonical-admission decision.
+    reference: 'https://landscape.cncf.io/ (CNCF Landscape: CNCF Members / End User
+      Supporter and Contributor / REWE International Dienstleistungsges.m.b.h. (supporter))'
+  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring
+    is a provisional programmatic mapping from the project maturity flag (graduated=adopt,
+    incubating=trial, sandbox/unflagged=assess, archived=hold); per-organization radar
+    position is a canonical-admission decision.
 tags:
 - cncf-members
 - landscape
 - end-user-supporter-and-contributor
 slug: rewe-international-dienstleistungsges-m-b-h-supp
+assigned_id: dea:technology-radar-entry-rewe-international-dienstleistungsges-m-b-h-supp-uk4gux
+admitted: '2026-11-14'

@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+### TRE-CAT-05: TechnologyRadarEntry Candidate Admission Batch 02
+
+Admitted 1142 new `TechnologyRadarEntry` CANDIDATE records through the gated intake workflow (queue gate → admission tool → catalog gates); ids content-derived and collision-checked; records land in `candidates/` subtrees at `lifecycle_status: proposed` / version 0.1.0; candidates count +1142, canonical unchanged; queue entries flipped to `admitted`.
+
 ### TRE-CAT-04: TechnologyRadarEntry Candidate Admission Batch 01
 
 Admitted 1300 new `TechnologyRadarEntry` CANDIDATE records through the gated intake workflow (queue gate → admission tool → catalog gates); ids content-derived and collision-checked; records land in `candidates/` subtrees at `lifecycle_status: proposed` / version 0.1.0; candidates count +1300, canonical unchanged; queue entries flipped to `admitted`.

@@ -1,22 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: cncf-landscape.json
-source_ref: CNCF Landscape / Platform / Certified Kubernetes - Distribution / Talos Linux
+source_ref: CNCF Landscape / Platform / Certified Kubernetes - Distribution / Talos
+  Linux
 name: Talos Linux
-description: Talos Linux — Certified Kubernetes - Distribution entry in the CNCF Landscape; homepage https://talos.dev/.
-  Radar ring value is provisional.
+description: Talos Linux — Certified Kubernetes - Distribution entry in the CNCF Landscape;
+  homepage https://talos.dev/. Radar ring value is provisional.
 radar_ring: assess
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://landscape.cncf.io/ (CNCF Landscape: Platform / Certified Kubernetes - Distribution
-      / Talos Linux)'
-  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring is a provisional programmatic
-    mapping from the project maturity flag (graduated=adopt, incubating=trial, sandbox/unflagged=assess,
-    archived=hold); per-organization radar position is a canonical-admission decision.
+    reference: 'https://landscape.cncf.io/ (CNCF Landscape: Platform / Certified Kubernetes
+      - Distribution / Talos Linux)'
+  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring
+    is a provisional programmatic mapping from the project maturity flag (graduated=adopt,
+    incubating=trial, sandbox/unflagged=assess, archived=hold); per-organization radar
+    position is a canonical-admission decision.
 tags:
 - landscape
 - platform
 - certified-kubernetes-distribution
 slug: talos-linux
+assigned_id: dea:technology-radar-entry-talos-linux-zyschu
+admitted: '2026-11-14'

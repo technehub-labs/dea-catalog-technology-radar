@@ -1,22 +1,27 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: cncf-landscape.json
-source_ref: CNCF Landscape / Provisioning / Security & Compliance / Open Policy Agent (OPA)
+source_ref: CNCF Landscape / Provisioning / Security & Compliance / Open Policy Agent
+  (OPA)
 name: Open Policy Agent (OPA)
-description: Open Policy Agent (OPA) — Security & Compliance entry in the CNCF Landscape (graduated project);
-  homepage https://www.openpolicyagent.org/. Radar ring value is provisional.
+description: Open Policy Agent (OPA) — Security & Compliance entry in the CNCF Landscape
+  (graduated project); homepage https://www.openpolicyagent.org/. Radar ring value
+  is provisional.
 radar_ring: adopt
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://landscape.cncf.io/ (CNCF Landscape: Provisioning / Security & Compliance / Open
-      Policy Agent (OPA))'
-  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring is a provisional programmatic
-    mapping from the project maturity flag (graduated=adopt, incubating=trial, sandbox/unflagged=assess,
-    archived=hold); per-organization radar position is a canonical-admission decision.
+    reference: 'https://landscape.cncf.io/ (CNCF Landscape: Provisioning / Security
+      & Compliance / Open Policy Agent (OPA))'
+  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring
+    is a provisional programmatic mapping from the project maturity flag (graduated=adopt,
+    incubating=trial, sandbox/unflagged=assess, archived=hold); per-organization radar
+    position is a canonical-admission decision.
 tags:
 - provisioning
 - graduated
 - security-compliance
 slug: open-policy-agent-opa
+assigned_id: dea:technology-radar-entry-open-policy-agent-opa-mqpwa7
+admitted: '2026-11-14'
