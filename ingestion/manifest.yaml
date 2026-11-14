@@ -1,0 +1,12 @@
+# Ingestion manifest — TechnologyRadarEntry candidate corpus (TRE-CAT-03)
+# Records are candidates only (queue status: queued; admitted at
+# lifecycle_status: proposed / version 0.1.0 by the gated workflow).
+
+generated: '2026-11-15'
+generated_by: ingest-kit generate_queue.py (catalog population programme)
+submitted_by: Emmanuel A. Otchere
+record_count: 0
+sources:
+
+queue_layout: contributions/queue/<shard>/<slug>.yaml (entity-storage-layout §4;
+  letter shards; slug prefixes chosen to keep every shard under the 800-entry cap)
