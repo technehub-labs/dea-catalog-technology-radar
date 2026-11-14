@@ -1,22 +1,27 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: cncf-landscape.json
-source_ref: CNCF Landscape / AI Native Infra / Orchestration and Scheduling / Nvidia NeMo
+source_ref: CNCF Landscape / AI Native Infra / Orchestration and Scheduling / Nvidia
+  NeMo
 name: Nvidia NeMo
-description: Nvidia NeMo — Orchestration and Scheduling entry in the CNCF Landscape; homepage https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/stable/index.html.
+description: Nvidia NeMo — Orchestration and Scheduling entry in the CNCF Landscape;
+  homepage https://docs.nvidia.com/deeplearning/nemo/user-guide/docs/en/stable/index.html.
   Radar ring value is provisional.
 radar_ring: assess
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://landscape.cncf.io/ (CNCF Landscape: AI Native Infra / Orchestration and Scheduling
-      / Nvidia NeMo)'
-  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring is a provisional programmatic
-    mapping from the project maturity flag (graduated=adopt, incubating=trial, sandbox/unflagged=assess,
-    archived=hold); per-organization radar position is a canonical-admission decision.
+    reference: 'https://landscape.cncf.io/ (CNCF Landscape: AI Native Infra / Orchestration
+      and Scheduling / Nvidia NeMo)'
+  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring
+    is a provisional programmatic mapping from the project maturity flag (graduated=adopt,
+    incubating=trial, sandbox/unflagged=assess, archived=hold); per-organization radar
+    position is a canonical-admission decision.
 tags:
 - ai-native-infra
 - orchestration-and-scheduling
 - landscape
 slug: nvidia-nemo
+assigned_id: dea:technology-radar-entry-nvidia-nemo-u358ry
+admitted: '2026-11-14'

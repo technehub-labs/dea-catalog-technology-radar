@@ -1,22 +1,27 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: cncf-landscape.json
-source_ref: CNCF Landscape / Special / Kubernetes Certified Service Provider / Platform9 (KCSP)
+source_ref: CNCF Landscape / Special / Kubernetes Certified Service Provider / Platform9
+  (KCSP)
 name: Platform9 (KCSP)
-description: Platform9 (KCSP) — Kubernetes Certified Service Provider entry in the CNCF Landscape; homepage
-  https://platform9.com/managed-kubernetes/. Radar ring value is provisional.
+description: Platform9 (KCSP) — Kubernetes Certified Service Provider entry in the
+  CNCF Landscape; homepage https://platform9.com/managed-kubernetes/. Radar ring value
+  is provisional.
 radar_ring: assess
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://landscape.cncf.io/ (CNCF Landscape: Special / Kubernetes Certified Service Provider
-      / Platform9 (KCSP))'
-  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring is a provisional programmatic
-    mapping from the project maturity flag (graduated=adopt, incubating=trial, sandbox/unflagged=assess,
-    archived=hold); per-organization radar position is a canonical-admission decision.
+    reference: 'https://landscape.cncf.io/ (CNCF Landscape: Special / Kubernetes Certified
+      Service Provider / Platform9 (KCSP))'
+  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring
+    is a provisional programmatic mapping from the project maturity flag (graduated=adopt,
+    incubating=trial, sandbox/unflagged=assess, archived=hold); per-organization radar
+    position is a canonical-admission decision.
 tags:
 - landscape
 - kubernetes-certified-service-provider
 - special
 slug: platform9-kcsp
+assigned_id: dea:technology-radar-entry-platform9-kcsp-uvtvc7
+admitted: '2026-11-14'

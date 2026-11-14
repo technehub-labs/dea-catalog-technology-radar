@@ -1,22 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: cncf-landscape.json
-source_ref: CNCF Landscape / Platform / Certified Kubernetes - AI Platform / NVIDIA NIM on EKS
+source_ref: CNCF Landscape / Platform / Certified Kubernetes - AI Platform / NVIDIA
+  NIM on EKS
 name: NVIDIA NIM on EKS
-description: NVIDIA NIM on EKS — Certified Kubernetes - AI Platform entry in the CNCF Landscape; homepage
-  https://developer.nvidia.com/nim. Radar ring value is provisional.
+description: NVIDIA NIM on EKS — Certified Kubernetes - AI Platform entry in the CNCF
+  Landscape; homepage https://developer.nvidia.com/nim. Radar ring value is provisional.
 radar_ring: assess
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://landscape.cncf.io/ (CNCF Landscape: Platform / Certified Kubernetes - AI Platform
-      / NVIDIA NIM on EKS)'
-  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring is a provisional programmatic
-    mapping from the project maturity flag (graduated=adopt, incubating=trial, sandbox/unflagged=assess,
-    archived=hold); per-organization radar position is a canonical-admission decision.
+    reference: 'https://landscape.cncf.io/ (CNCF Landscape: Platform / Certified Kubernetes
+      - AI Platform / NVIDIA NIM on EKS)'
+  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring
+    is a provisional programmatic mapping from the project maturity flag (graduated=adopt,
+    incubating=trial, sandbox/unflagged=assess, archived=hold); per-organization radar
+    position is a canonical-admission decision.
 tags:
 - certified-kubernetes-ai-platform
 - landscape
 - platform
 slug: nvidia-nim-on-eks
+assigned_id: dea:technology-radar-entry-nvidia-nim-on-eks-rcx59j
+admitted: '2026-11-14'

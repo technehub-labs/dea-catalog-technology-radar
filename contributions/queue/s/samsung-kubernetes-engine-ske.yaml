@@ -1,23 +1,27 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: cncf-landscape.json
-source_ref: CNCF Landscape / Platform / Certified Kubernetes - Hosted / Samsung Kubernetes Engine (SKE)
+source_ref: CNCF Landscape / Platform / Certified Kubernetes - Hosted / Samsung Kubernetes
+  Engine (SKE)
 name: Samsung Kubernetes Engine (SKE)
-description: Samsung Kubernetes Engine (SKE) — Certified Kubernetes - Hosted entry in the CNCF Landscape;
-  homepage https://cloud.samsungsds.com/serviceportal/product/container/k8sEngine.html. Radar ring value
-  is provisional.
+description: Samsung Kubernetes Engine (SKE) — Certified Kubernetes - Hosted entry
+  in the CNCF Landscape; homepage https://cloud.samsungsds.com/serviceportal/product/container/k8sEngine.html.
+  Radar ring value is provisional.
 radar_ring: assess
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://landscape.cncf.io/ (CNCF Landscape: Platform / Certified Kubernetes - Hosted /
-      Samsung Kubernetes Engine (SKE))'
-  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring is a provisional programmatic
-    mapping from the project maturity flag (graduated=adopt, incubating=trial, sandbox/unflagged=assess,
-    archived=hold); per-organization radar position is a canonical-admission decision.
+    reference: 'https://landscape.cncf.io/ (CNCF Landscape: Platform / Certified Kubernetes
+      - Hosted / Samsung Kubernetes Engine (SKE))'
+  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring
+    is a provisional programmatic mapping from the project maturity flag (graduated=adopt,
+    incubating=trial, sandbox/unflagged=assess, archived=hold); per-organization radar
+    position is a canonical-admission decision.
 tags:
 - landscape
 - platform
 - certified-kubernetes-hosted
 slug: samsung-kubernetes-engine-ske
+assigned_id: dea:technology-radar-entry-samsung-kubernetes-engine-ske-9g89yq
+admitted: '2026-11-14'

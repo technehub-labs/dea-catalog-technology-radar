@@ -1,22 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: cncf-landscape.json
-source_ref: CNCF Landscape / Orchestration & Management / Service Mesh / Tetrate Service Bridge (TSB)
+source_ref: CNCF Landscape / Orchestration & Management / Service Mesh / Tetrate Service
+  Bridge (TSB)
 name: Tetrate Service Bridge (TSB)
-description: Tetrate Service Bridge (TSB) — Service Mesh entry in the CNCF Landscape; homepage https://www.tetrate.io/tetrate-service-bridge/.
-  Radar ring value is provisional.
+description: Tetrate Service Bridge (TSB) — Service Mesh entry in the CNCF Landscape;
+  homepage https://www.tetrate.io/tetrate-service-bridge/. Radar ring value is provisional.
 radar_ring: assess
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://landscape.cncf.io/ (CNCF Landscape: Orchestration & Management / Service Mesh
-      / Tetrate Service Bridge (TSB))'
-  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring is a provisional programmatic
-    mapping from the project maturity flag (graduated=adopt, incubating=trial, sandbox/unflagged=assess,
-    archived=hold); per-organization radar position is a canonical-admission decision.
+    reference: 'https://landscape.cncf.io/ (CNCF Landscape: Orchestration & Management
+      / Service Mesh / Tetrate Service Bridge (TSB))'
+  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring
+    is a provisional programmatic mapping from the project maturity flag (graduated=adopt,
+    incubating=trial, sandbox/unflagged=assess, archived=hold); per-organization radar
+    position is a canonical-admission decision.
 tags:
 - service-mesh
 - landscape
 - orchestration-management
 slug: tetrate-service-bridge-tsb
+assigned_id: dea:technology-radar-entry-tetrate-service-bridge-tsb-gtezz8
+admitted: '2026-11-14'

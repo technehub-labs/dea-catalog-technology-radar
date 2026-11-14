@@ -1,22 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: cncf-landscape.json
-source_ref: CNCF Landscape / App Definition and Development / Application Definition & Image Build / Packer
+source_ref: CNCF Landscape / App Definition and Development / Application Definition
+  & Image Build / Packer
 name: Packer
-description: Packer — Application Definition & Image Build entry in the CNCF Landscape; homepage https://www.packer.io/.
-  Radar ring value is provisional.
+description: Packer — Application Definition & Image Build entry in the CNCF Landscape;
+  homepage https://www.packer.io/. Radar ring value is provisional.
 radar_ring: assess
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://landscape.cncf.io/ (CNCF Landscape: App Definition and Development / Application
-      Definition & Image Build / Packer)'
-  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring is a provisional programmatic
-    mapping from the project maturity flag (graduated=adopt, incubating=trial, sandbox/unflagged=assess,
-    archived=hold); per-organization radar position is a canonical-admission decision.
+    reference: 'https://landscape.cncf.io/ (CNCF Landscape: App Definition and Development
+      / Application Definition & Image Build / Packer)'
+  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring
+    is a provisional programmatic mapping from the project maturity flag (graduated=adopt,
+    incubating=trial, sandbox/unflagged=assess, archived=hold); per-organization radar
+    position is a canonical-admission decision.
 tags:
 - app-definition-and-development
 - landscape
 - application-definition-image-build
 slug: packer
+assigned_id: dea:technology-radar-entry-packer-4ep3xp
+admitted: '2026-11-14'
