@@ -1,12 +1,18 @@
-# Ingestion manifest — TechnologyRadarEntry candidate corpus (TRE-CAT-03)
+# Ingestion manifest — TechnologyRadarEntry candidate corpus (TRE-CAT-03A)
 # Records are candidates only (queue status: queued; admitted at
 # lifecycle_status: proposed / version 0.1.0 by the gated workflow).
 
 generated: '2026-11-15'
 generated_by: ingest-kit generate_queue.py (catalog population programme)
 submitted_by: Emmanuel A. Otchere
-record_count: 0
+record_count: 2442
 sources:
-
+- bank: cncf-landscape.json
+  source: "CNCF Landscape (cncf/landscape hosted YAML)"
+  url: "https://raw.githubusercontent.com/cncf/landscape/main/landscape.yml"
+  published: "https://landscape.cncf.io/"
+  retrieved: '2026-11-15'
+  sha256: 74a6116a7944cf504048cb34d607aca2184c07cf49c7648fd280004cbf18a8a3
+  records: 2442
 queue_layout: contributions/queue/<shard>/<slug>.yaml (entity-storage-layout §4;
   letter shards; slug prefixes chosen to keep every shard under the 800-entry cap)

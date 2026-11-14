@@ -1,0 +1,22 @@
+status: queued
+submitted_by: Emmanuel A. Otchere
+submitted: '2026-11-15'
+source_bank: cncf-landscape.json
+source_ref: CNCF Landscape / Platform / Certified Kubernetes - Distribution / Whitestack WhiteMist
+name: Whitestack WhiteMist
+description: Whitestack WhiteMist — Certified Kubernetes - Distribution entry in the CNCF Landscape; homepage
+  https://whitestack.com/products/kubernetes-based-containers-orchestration. Radar ring value is provisional.
+radar_ring: assess
+evidence:
+  sources:
+  - kind: published-document
+    reference: 'https://landscape.cncf.io/ (CNCF Landscape: Platform / Certified Kubernetes - Distribution
+      / Whitestack WhiteMist)'
+  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring is a provisional programmatic
+    mapping from the project maturity flag (graduated=adopt, incubating=trial, sandbox/unflagged=assess,
+    archived=hold); per-organization radar position is a canonical-admission decision.
+tags:
+- landscape
+- platform
+- certified-kubernetes-distribution
+slug: whitestack-whitemist
