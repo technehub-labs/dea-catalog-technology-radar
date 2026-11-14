@@ -1,8 +1,9 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: cncf-landscape.json
-source_ref: CNCF Landscape / Observability and Analysis / Observability / Grafana Tempo
+source_ref: CNCF Landscape / Observability and Analysis / Observability / Grafana
+  Tempo
 name: Grafana Tempo
 description: Grafana Tempo — Observability entry in the CNCF Landscape; homepage https://grafana.com/oss/tempo/.
   Radar ring value is provisional.
@@ -10,13 +11,16 @@ radar_ring: assess
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://landscape.cncf.io/ (CNCF Landscape: Observability and Analysis / Observability
-      / Grafana Tempo)'
-  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring is a provisional programmatic
-    mapping from the project maturity flag (graduated=adopt, incubating=trial, sandbox/unflagged=assess,
-    archived=hold); per-organization radar position is a canonical-admission decision.
+    reference: 'https://landscape.cncf.io/ (CNCF Landscape: Observability and Analysis
+      / Observability / Grafana Tempo)'
+  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring
+    is a provisional programmatic mapping from the project maturity flag (graduated=adopt,
+    incubating=trial, sandbox/unflagged=assess, archived=hold); per-organization radar
+    position is a canonical-admission decision.
 tags:
 - landscape
 - observability
 - observability-and-analysis
 slug: grafana-tempo
+assigned_id: dea:technology-radar-entry-grafana-tempo-5yf59v
+admitted: '2026-11-14'

@@ -1,22 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: cncf-landscape.json
 source_ref: CNCF Landscape / Wasm / Hosted Platforms / Cloudflare Workers (Wasm)
 name: Cloudflare Workers (Wasm)
-description: Cloudflare Workers (Wasm) — Hosted Platforms entry in the CNCF Landscape; homepage https://workers.cloudflare.com/.
-  Radar ring value is provisional.
+description: Cloudflare Workers (Wasm) — Hosted Platforms entry in the CNCF Landscape;
+  homepage https://workers.cloudflare.com/. Radar ring value is provisional.
 radar_ring: assess
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://landscape.cncf.io/ (CNCF Landscape: Wasm / Hosted Platforms / Cloudflare Workers
-      (Wasm))'
-  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring is a provisional programmatic
-    mapping from the project maturity flag (graduated=adopt, incubating=trial, sandbox/unflagged=assess,
-    archived=hold); per-organization radar position is a canonical-admission decision.
+    reference: 'https://landscape.cncf.io/ (CNCF Landscape: Wasm / Hosted Platforms
+      / Cloudflare Workers (Wasm))'
+  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring
+    is a provisional programmatic mapping from the project maturity flag (graduated=adopt,
+    incubating=trial, sandbox/unflagged=assess, archived=hold); per-organization radar
+    position is a canonical-admission decision.
 tags:
 - hosted-platforms
 - landscape
 - wasm
 slug: cloudflare-workers-wasm
+assigned_id: dea:technology-radar-entry-cloudflare-workers-wasm-ar3d3s
+admitted: '2026-11-14'

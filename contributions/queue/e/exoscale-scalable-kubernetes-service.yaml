@@ -1,22 +1,27 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: cncf-landscape.json
-source_ref: CNCF Landscape / Platform / Certified Kubernetes - Hosted / Exoscale Scalable Kubernetes Service
+source_ref: CNCF Landscape / Platform / Certified Kubernetes - Hosted / Exoscale Scalable
+  Kubernetes Service
 name: Exoscale Scalable Kubernetes Service
-description: Exoscale Scalable Kubernetes Service — Certified Kubernetes - Hosted entry in the CNCF Landscape;
-  homepage https://www.exoscale.com/sks/. Radar ring value is provisional.
+description: Exoscale Scalable Kubernetes Service — Certified Kubernetes - Hosted
+  entry in the CNCF Landscape; homepage https://www.exoscale.com/sks/. Radar ring
+  value is provisional.
 radar_ring: assess
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://landscape.cncf.io/ (CNCF Landscape: Platform / Certified Kubernetes - Hosted /
-      Exoscale Scalable Kubernetes Service)'
-  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring is a provisional programmatic
-    mapping from the project maturity flag (graduated=adopt, incubating=trial, sandbox/unflagged=assess,
-    archived=hold); per-organization radar position is a canonical-admission decision.
+    reference: 'https://landscape.cncf.io/ (CNCF Landscape: Platform / Certified Kubernetes
+      - Hosted / Exoscale Scalable Kubernetes Service)'
+  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring
+    is a provisional programmatic mapping from the project maturity flag (graduated=adopt,
+    incubating=trial, sandbox/unflagged=assess, archived=hold); per-organization radar
+    position is a canonical-admission decision.
 tags:
 - landscape
 - platform
 - certified-kubernetes-hosted
 slug: exoscale-scalable-kubernetes-service
+assigned_id: dea:technology-radar-entry-exoscale-scalable-kubernetes-service-h745fq
+admitted: '2026-11-14'

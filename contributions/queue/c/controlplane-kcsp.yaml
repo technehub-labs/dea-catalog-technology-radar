@@ -1,22 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: cncf-landscape.json
-source_ref: CNCF Landscape / Special / Kubernetes Certified Service Provider / ControlPlane (KCSP)
+source_ref: CNCF Landscape / Special / Kubernetes Certified Service Provider / ControlPlane
+  (KCSP)
 name: ControlPlane (KCSP)
-description: ControlPlane (KCSP) — Kubernetes Certified Service Provider entry in the CNCF Landscape;
-  homepage https://control-plane.io/. Radar ring value is provisional.
+description: ControlPlane (KCSP) — Kubernetes Certified Service Provider entry in
+  the CNCF Landscape; homepage https://control-plane.io/. Radar ring value is provisional.
 radar_ring: assess
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://landscape.cncf.io/ (CNCF Landscape: Special / Kubernetes Certified Service Provider
-      / ControlPlane (KCSP))'
-  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring is a provisional programmatic
-    mapping from the project maturity flag (graduated=adopt, incubating=trial, sandbox/unflagged=assess,
-    archived=hold); per-organization radar position is a canonical-admission decision.
+    reference: 'https://landscape.cncf.io/ (CNCF Landscape: Special / Kubernetes Certified
+      Service Provider / ControlPlane (KCSP))'
+  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring
+    is a provisional programmatic mapping from the project maturity flag (graduated=adopt,
+    incubating=trial, sandbox/unflagged=assess, archived=hold); per-organization radar
+    position is a canonical-admission decision.
 tags:
 - landscape
 - kubernetes-certified-service-provider
 - special
 slug: controlplane-kcsp
+assigned_id: dea:technology-radar-entry-controlplane-kcsp-up9njh
+admitted: '2026-11-14'

@@ -1,22 +1,27 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: cncf-landscape.json
-source_ref: CNCF Landscape / AI Native Infra / Continuous Integration and Delivery / Kubeflow Pipelines
+source_ref: CNCF Landscape / AI Native Infra / Continuous Integration and Delivery
+  / Kubeflow Pipelines
 name: Kubeflow Pipelines
-description: Kubeflow Pipelines — Continuous Integration and Delivery entry in the CNCF Landscape; homepage
-  https://www.kubeflow.org/docs/components/pipelines/v1/introduction/. Radar ring value is provisional.
+description: Kubeflow Pipelines — Continuous Integration and Delivery entry in the
+  CNCF Landscape; homepage https://www.kubeflow.org/docs/components/pipelines/v1/introduction/.
+  Radar ring value is provisional.
 radar_ring: assess
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://landscape.cncf.io/ (CNCF Landscape: AI Native Infra / Continuous Integration and
-      Delivery / Kubeflow Pipelines)'
-  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring is a provisional programmatic
-    mapping from the project maturity flag (graduated=adopt, incubating=trial, sandbox/unflagged=assess,
-    archived=hold); per-organization radar position is a canonical-admission decision.
+    reference: 'https://landscape.cncf.io/ (CNCF Landscape: AI Native Infra / Continuous
+      Integration and Delivery / Kubeflow Pipelines)'
+  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring
+    is a provisional programmatic mapping from the project maturity flag (graduated=adopt,
+    incubating=trial, sandbox/unflagged=assess, archived=hold); per-organization radar
+    position is a canonical-admission decision.
 tags:
 - ai-native-infra
 - landscape
 - continuous-integration-and-delivery
 slug: kubeflow-pipelines
+assigned_id: dea:technology-radar-entry-kubeflow-pipelines-hddb5h
+admitted: '2026-11-14'

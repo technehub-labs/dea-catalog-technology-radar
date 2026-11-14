@@ -1,23 +1,27 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: cncf-landscape.json
-source_ref: CNCF Landscape / CNCF Members / End User Supporter and Contributor / Hightech Payment Systems
-  (supporter)
+source_ref: CNCF Landscape / CNCF Members / End User Supporter and Contributor / Hightech
+  Payment Systems (supporter)
 name: Hightech Payment Systems (supporter)
-description: Hightech Payment Systems (supporter) — End User Supporter and Contributor entry in the CNCF
-  Landscape; homepage https://www.hps-worldwide.com/. Radar ring value is provisional.
+description: Hightech Payment Systems (supporter) — End User Supporter and Contributor
+  entry in the CNCF Landscape; homepage https://www.hps-worldwide.com/. Radar ring
+  value is provisional.
 radar_ring: assess
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://landscape.cncf.io/ (CNCF Landscape: CNCF Members / End User Supporter and Contributor
-      / Hightech Payment Systems (supporter))'
-  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring is a provisional programmatic
-    mapping from the project maturity flag (graduated=adopt, incubating=trial, sandbox/unflagged=assess,
-    archived=hold); per-organization radar position is a canonical-admission decision.
+    reference: 'https://landscape.cncf.io/ (CNCF Landscape: CNCF Members / End User
+      Supporter and Contributor / Hightech Payment Systems (supporter))'
+  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring
+    is a provisional programmatic mapping from the project maturity flag (graduated=adopt,
+    incubating=trial, sandbox/unflagged=assess, archived=hold); per-organization radar
+    position is a canonical-admission decision.
 tags:
 - cncf-members
 - landscape
 - end-user-supporter-and-contributor
 slug: hightech-payment-systems-supporter
+assigned_id: dea:technology-radar-entry-hightech-payment-systems-supporter-u645yq
+admitted: '2026-11-14'

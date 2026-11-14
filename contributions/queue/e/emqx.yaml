@@ -1,8 +1,9 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: cncf-landscape.json
-source_ref: CNCF Landscape / App Definition and Development / Streaming & Messaging / EMQX
+source_ref: CNCF Landscape / App Definition and Development / Streaming & Messaging
+  / EMQX
 name: EMQX
 description: EMQX — Streaming & Messaging entry in the CNCF Landscape; homepage https://www.emqx.com/en.
   Radar ring value is provisional.
@@ -10,13 +11,16 @@ radar_ring: assess
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://landscape.cncf.io/ (CNCF Landscape: App Definition and Development / Streaming
-      & Messaging / EMQX)'
-  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring is a provisional programmatic
-    mapping from the project maturity flag (graduated=adopt, incubating=trial, sandbox/unflagged=assess,
-    archived=hold); per-organization radar position is a canonical-admission decision.
+    reference: 'https://landscape.cncf.io/ (CNCF Landscape: App Definition and Development
+      / Streaming & Messaging / EMQX)'
+  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring
+    is a provisional programmatic mapping from the project maturity flag (graduated=adopt,
+    incubating=trial, sandbox/unflagged=assess, archived=hold); per-organization radar
+    position is a canonical-admission decision.
 tags:
 - app-definition-and-development
 - landscape
 - streaming-messaging
 slug: emqx
+assigned_id: dea:technology-radar-entry-emqx-y5q6ss
+admitted: '2026-11-14'

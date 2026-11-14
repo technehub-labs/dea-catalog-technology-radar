@@ -1,21 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: cncf-landscape.json
 source_ref: CNCF Landscape / Runtime / Cloud Native Network / Kube-router
 name: Kube-router
-description: Kube-router — Cloud Native Network entry in the CNCF Landscape; homepage https://www.kube-router.io.
-  Radar ring value is provisional.
+description: Kube-router — Cloud Native Network entry in the CNCF Landscape; homepage
+  https://www.kube-router.io. Radar ring value is provisional.
 radar_ring: assess
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://landscape.cncf.io/ (CNCF Landscape: Runtime / Cloud Native Network / Kube-router)'
-  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring is a provisional programmatic
-    mapping from the project maturity flag (graduated=adopt, incubating=trial, sandbox/unflagged=assess,
-    archived=hold); per-organization radar position is a canonical-admission decision.
+    reference: 'https://landscape.cncf.io/ (CNCF Landscape: Runtime / Cloud Native
+      Network / Kube-router)'
+  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring
+    is a provisional programmatic mapping from the project maturity flag (graduated=adopt,
+    incubating=trial, sandbox/unflagged=assess, archived=hold); per-organization radar
+    position is a canonical-admission decision.
 tags:
 - landscape
 - runtime
 - cloud-native-network
 slug: kube-router
+assigned_id: dea:technology-radar-entry-kube-router-yr7cyv
+admitted: '2026-11-14'

@@ -1,21 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: cncf-landscape.json
 source_ref: CNCF Landscape / Inference / Framework / KAITO
 name: KAITO
-description: KAITO — Framework entry in the CNCF Landscape (sandbox project); homepage https://kaito-project.netlify.app/.
-  Radar ring value is provisional.
+description: KAITO — Framework entry in the CNCF Landscape (sandbox project); homepage
+  https://kaito-project.netlify.app/. Radar ring value is provisional.
 radar_ring: assess
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://landscape.cncf.io/ (CNCF Landscape: Inference / Framework / KAITO)'
-  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring is a provisional programmatic
-    mapping from the project maturity flag (graduated=adopt, incubating=trial, sandbox/unflagged=assess,
-    archived=hold); per-organization radar position is a canonical-admission decision.
+    reference: 'https://landscape.cncf.io/ (CNCF Landscape: Inference / Framework
+      / KAITO)'
+  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring
+    is a provisional programmatic mapping from the project maturity flag (graduated=adopt,
+    incubating=trial, sandbox/unflagged=assess, archived=hold); per-organization radar
+    position is a canonical-admission decision.
 tags:
 - sandbox
 - framework
 - inference
 slug: kaito
+assigned_id: dea:technology-radar-entry-kaito-2qc69e
+admitted: '2026-11-14'
