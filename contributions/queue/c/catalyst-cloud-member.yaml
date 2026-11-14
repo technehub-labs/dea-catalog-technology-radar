@@ -1,21 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: cncf-landscape.json
 source_ref: CNCF Landscape / CNCF Members / Silver / Catalyst Cloud (member)
 name: Catalyst Cloud (member)
-description: Catalyst Cloud (member) — Silver entry in the CNCF Landscape; homepage https://catalystcloud.nz/.
-  Radar ring value is provisional.
+description: Catalyst Cloud (member) — Silver entry in the CNCF Landscape; homepage
+  https://catalystcloud.nz/. Radar ring value is provisional.
 radar_ring: assess
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://landscape.cncf.io/ (CNCF Landscape: CNCF Members / Silver / Catalyst Cloud (member))'
-  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring is a provisional programmatic
-    mapping from the project maturity flag (graduated=adopt, incubating=trial, sandbox/unflagged=assess,
-    archived=hold); per-organization radar position is a canonical-admission decision.
+    reference: 'https://landscape.cncf.io/ (CNCF Landscape: CNCF Members / Silver
+      / Catalyst Cloud (member))'
+  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring
+    is a provisional programmatic mapping from the project maturity flag (graduated=adopt,
+    incubating=trial, sandbox/unflagged=assess, archived=hold); per-organization radar
+    position is a canonical-admission decision.
 tags:
 - cncf-members
 - landscape
 - silver
 slug: catalyst-cloud-member
+assigned_id: dea:technology-radar-entry-catalyst-cloud-member-b6j7gn
+admitted: '2026-11-14'

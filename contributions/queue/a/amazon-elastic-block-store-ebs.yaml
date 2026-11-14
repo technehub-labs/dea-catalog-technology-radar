@@ -1,22 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: cncf-landscape.json
-source_ref: CNCF Landscape / Runtime / Cloud Native Storage / Amazon Elastic Block Store (EBS)
+source_ref: CNCF Landscape / Runtime / Cloud Native Storage / Amazon Elastic Block
+  Store (EBS)
 name: Amazon Elastic Block Store (EBS)
-description: Amazon Elastic Block Store (EBS) — Cloud Native Storage entry in the CNCF Landscape; homepage
-  https://aws.amazon.com/ebs/. Radar ring value is provisional.
+description: Amazon Elastic Block Store (EBS) — Cloud Native Storage entry in the
+  CNCF Landscape; homepage https://aws.amazon.com/ebs/. Radar ring value is provisional.
 radar_ring: assess
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://landscape.cncf.io/ (CNCF Landscape: Runtime / Cloud Native Storage / Amazon Elastic
-      Block Store (EBS))'
-  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring is a provisional programmatic
-    mapping from the project maturity flag (graduated=adopt, incubating=trial, sandbox/unflagged=assess,
-    archived=hold); per-organization radar position is a canonical-admission decision.
+    reference: 'https://landscape.cncf.io/ (CNCF Landscape: Runtime / Cloud Native
+      Storage / Amazon Elastic Block Store (EBS))'
+  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring
+    is a provisional programmatic mapping from the project maturity flag (graduated=adopt,
+    incubating=trial, sandbox/unflagged=assess, archived=hold); per-organization radar
+    position is a canonical-admission decision.
 tags:
 - landscape
 - cloud-native-storage
 - runtime
 slug: amazon-elastic-block-store-ebs
+assigned_id: dea:technology-radar-entry-amazon-elastic-block-store-ebs-wmym5d
+admitted: '2026-11-14'

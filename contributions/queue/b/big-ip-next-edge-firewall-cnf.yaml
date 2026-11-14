@@ -1,22 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: cncf-landscape.json
-source_ref: CNCF Landscape / Special / Certified CNFs / BIG-IP NEXT Edge Firewall CNF
+source_ref: CNCF Landscape / Special / Certified CNFs / BIG-IP NEXT Edge Firewall
+  CNF
 name: BIG-IP NEXT Edge Firewall CNF
-description: BIG-IP NEXT Edge Firewall CNF — Certified CNFs entry in the CNCF Landscape; homepage https://f5.com.
-  Radar ring value is provisional.
+description: BIG-IP NEXT Edge Firewall CNF — Certified CNFs entry in the CNCF Landscape;
+  homepage https://f5.com. Radar ring value is provisional.
 radar_ring: assess
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://landscape.cncf.io/ (CNCF Landscape: Special / Certified CNFs / BIG-IP NEXT Edge
-      Firewall CNF)'
-  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring is a provisional programmatic
-    mapping from the project maturity flag (graduated=adopt, incubating=trial, sandbox/unflagged=assess,
-    archived=hold); per-organization radar position is a canonical-admission decision.
+    reference: 'https://landscape.cncf.io/ (CNCF Landscape: Special / Certified CNFs
+      / BIG-IP NEXT Edge Firewall CNF)'
+  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring
+    is a provisional programmatic mapping from the project maturity flag (graduated=adopt,
+    incubating=trial, sandbox/unflagged=assess, archived=hold); per-organization radar
+    position is a canonical-admission decision.
 tags:
 - landscape
 - certified-cnfs
 - special
 slug: big-ip-next-edge-firewall-cnf
+assigned_id: dea:technology-radar-entry-big-ip-next-edge-firewall-cnf-fbndah
+admitted: '2026-11-14'

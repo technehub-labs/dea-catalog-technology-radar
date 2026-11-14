@@ -1,23 +1,27 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: cncf-landscape.json
-source_ref: CNCF Landscape / Platform / Certified Kubernetes - Hosted / AKS Engine for Azure Stack
+source_ref: CNCF Landscape / Platform / Certified Kubernetes - Hosted / AKS Engine
+  for Azure Stack
 name: AKS Engine for Azure Stack
-description: AKS Engine for Azure Stack — Certified Kubernetes - Hosted entry in the CNCF Landscape; homepage
-  https://docs.microsoft.com/en-us/azure-stack/user/azure-stack-kubernetes-aks-engine-overview?view=azs-2501.
+description: AKS Engine for Azure Stack — Certified Kubernetes - Hosted entry in the
+  CNCF Landscape; homepage https://docs.microsoft.com/en-us/azure-stack/user/azure-stack-kubernetes-aks-engine-overview?view=azs-2501.
   Radar ring value is provisional.
 radar_ring: assess
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://landscape.cncf.io/ (CNCF Landscape: Platform / Certified Kubernetes - Hosted /
-      AKS Engine for Azure Stack)'
-  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring is a provisional programmatic
-    mapping from the project maturity flag (graduated=adopt, incubating=trial, sandbox/unflagged=assess,
-    archived=hold); per-organization radar position is a canonical-admission decision.
+    reference: 'https://landscape.cncf.io/ (CNCF Landscape: Platform / Certified Kubernetes
+      - Hosted / AKS Engine for Azure Stack)'
+  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring
+    is a provisional programmatic mapping from the project maturity flag (graduated=adopt,
+    incubating=trial, sandbox/unflagged=assess, archived=hold); per-organization radar
+    position is a canonical-admission decision.
 tags:
 - landscape
 - platform
 - certified-kubernetes-hosted
 slug: aks-engine-for-azure-stack
+assigned_id: dea:technology-radar-entry-aks-engine-for-azure-stack-ahzd9u
+admitted: '2026-11-14'

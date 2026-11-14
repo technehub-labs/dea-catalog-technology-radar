@@ -1,22 +1,26 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: cncf-landscape.json
-source_ref: CNCF Landscape / Orchestration & Management / API Gateway / EnRoute OneStep Ingress
+source_ref: CNCF Landscape / Orchestration & Management / API Gateway / EnRoute OneStep
+  Ingress
 name: EnRoute OneStep Ingress
-description: EnRoute OneStep Ingress — API Gateway entry in the CNCF Landscape; homepage https://www.getenroute.io.
-  Radar ring value is provisional.
+description: EnRoute OneStep Ingress — API Gateway entry in the CNCF Landscape; homepage
+  https://www.getenroute.io. Radar ring value is provisional.
 radar_ring: assess
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://landscape.cncf.io/ (CNCF Landscape: Orchestration & Management / API Gateway /
-      EnRoute OneStep Ingress)'
-  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring is a provisional programmatic
-    mapping from the project maturity flag (graduated=adopt, incubating=trial, sandbox/unflagged=assess,
-    archived=hold); per-organization radar position is a canonical-admission decision.
+    reference: 'https://landscape.cncf.io/ (CNCF Landscape: Orchestration & Management
+      / API Gateway / EnRoute OneStep Ingress)'
+  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring
+    is a provisional programmatic mapping from the project maturity flag (graduated=adopt,
+    incubating=trial, sandbox/unflagged=assess, archived=hold); per-organization radar
+    position is a canonical-admission decision.
 tags:
 - api-gateway
 - landscape
 - orchestration-management
 slug: enroute-onestep-ingress
+assigned_id: dea:technology-radar-entry-enroute-onestep-ingress-kq38e5
+admitted: '2026-11-14'

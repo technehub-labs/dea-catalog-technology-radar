@@ -1,22 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: cncf-landscape.json
 source_ref: CNCF Landscape / CNCF Members / Silver / Excellion Sdn Bhd (member)
 name: Excellion Sdn Bhd (member)
-description: Excellion Sdn Bhd (member) — Silver entry in the CNCF Landscape; homepage https://excellion.my.
-  Radar ring value is provisional.
+description: Excellion Sdn Bhd (member) — Silver entry in the CNCF Landscape; homepage
+  https://excellion.my. Radar ring value is provisional.
 radar_ring: assess
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://landscape.cncf.io/ (CNCF Landscape: CNCF Members / Silver / Excellion Sdn Bhd
-      (member))'
-  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring is a provisional programmatic
-    mapping from the project maturity flag (graduated=adopt, incubating=trial, sandbox/unflagged=assess,
-    archived=hold); per-organization radar position is a canonical-admission decision.
+    reference: 'https://landscape.cncf.io/ (CNCF Landscape: CNCF Members / Silver
+      / Excellion Sdn Bhd (member))'
+  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring
+    is a provisional programmatic mapping from the project maturity flag (graduated=adopt,
+    incubating=trial, sandbox/unflagged=assess, archived=hold); per-organization radar
+    position is a canonical-admission decision.
 tags:
 - cncf-members
 - landscape
 - silver
 slug: excellion-sdn-bhd-member
+assigned_id: dea:technology-radar-entry-excellion-sdn-bhd-member-jytbjr
+admitted: '2026-11-14'

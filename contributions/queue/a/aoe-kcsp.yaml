@@ -1,22 +1,27 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: cncf-landscape.json
-source_ref: CNCF Landscape / Special / Kubernetes Certified Service Provider / AOE (KCSP)
+source_ref: CNCF Landscape / Special / Kubernetes Certified Service Provider / AOE
+  (KCSP)
 name: AOE (KCSP)
-description: AOE (KCSP) — Kubernetes Certified Service Provider entry in the CNCF Landscape; homepage
-  https://www.aoe.com/en/kubernetes-services.html. Radar ring value is provisional.
+description: AOE (KCSP) — Kubernetes Certified Service Provider entry in the CNCF
+  Landscape; homepage https://www.aoe.com/en/kubernetes-services.html. Radar ring
+  value is provisional.
 radar_ring: assess
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://landscape.cncf.io/ (CNCF Landscape: Special / Kubernetes Certified Service Provider
-      / AOE (KCSP))'
-  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring is a provisional programmatic
-    mapping from the project maturity flag (graduated=adopt, incubating=trial, sandbox/unflagged=assess,
-    archived=hold); per-organization radar position is a canonical-admission decision.
+    reference: 'https://landscape.cncf.io/ (CNCF Landscape: Special / Kubernetes Certified
+      Service Provider / AOE (KCSP))'
+  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring
+    is a provisional programmatic mapping from the project maturity flag (graduated=adopt,
+    incubating=trial, sandbox/unflagged=assess, archived=hold); per-organization radar
+    position is a canonical-admission decision.
 tags:
 - landscape
 - kubernetes-certified-service-provider
 - special
 slug: aoe-kcsp
+assigned_id: dea:technology-radar-entry-aoe-kcsp-b6wy8c
+admitted: '2026-11-14'

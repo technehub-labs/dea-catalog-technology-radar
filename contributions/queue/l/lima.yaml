@@ -1,21 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: cncf-landscape.json
 source_ref: CNCF Landscape / Runtime / Container Runtime / Lima
 name: Lima
-description: Lima — Container Runtime entry in the CNCF Landscape (incubating project); homepage https://lima-vm.io/.
-  Radar ring value is provisional.
+description: Lima — Container Runtime entry in the CNCF Landscape (incubating project);
+  homepage https://lima-vm.io/. Radar ring value is provisional.
 radar_ring: trial
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://landscape.cncf.io/ (CNCF Landscape: Runtime / Container Runtime / Lima)'
-  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring is a provisional programmatic
-    mapping from the project maturity flag (graduated=adopt, incubating=trial, sandbox/unflagged=assess,
-    archived=hold); per-organization radar position is a canonical-admission decision.
+    reference: 'https://landscape.cncf.io/ (CNCF Landscape: Runtime / Container Runtime
+      / Lima)'
+  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring
+    is a provisional programmatic mapping from the project maturity flag (graduated=adopt,
+    incubating=trial, sandbox/unflagged=assess, archived=hold); per-organization radar
+    position is a canonical-admission decision.
 tags:
 - incubating
 - container-runtime
 - runtime
 slug: lima
+assigned_id: dea:technology-radar-entry-lima-25urc3
+admitted: '2026-11-14'

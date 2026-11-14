@@ -1,21 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: cncf-landscape.json
 source_ref: CNCF Landscape / Data / Data Architecture / Hadoop HDFS
 name: Hadoop HDFS
-description: Hadoop HDFS — Data Architecture entry in the CNCF Landscape; homepage https://hadoop.apache.org/.
-  Radar ring value is provisional.
+description: Hadoop HDFS — Data Architecture entry in the CNCF Landscape; homepage
+  https://hadoop.apache.org/. Radar ring value is provisional.
 radar_ring: assess
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://landscape.cncf.io/ (CNCF Landscape: Data / Data Architecture / Hadoop HDFS)'
-  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring is a provisional programmatic
-    mapping from the project maturity flag (graduated=adopt, incubating=trial, sandbox/unflagged=assess,
-    archived=hold); per-organization radar position is a canonical-admission decision.
+    reference: 'https://landscape.cncf.io/ (CNCF Landscape: Data / Data Architecture
+      / Hadoop HDFS)'
+  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring
+    is a provisional programmatic mapping from the project maturity flag (graduated=adopt,
+    incubating=trial, sandbox/unflagged=assess, archived=hold); per-organization radar
+    position is a canonical-admission decision.
 tags:
 - landscape
 - data-architecture
 - data
 slug: hadoop-hdfs
+assigned_id: dea:technology-radar-entry-hadoop-hdfs-984q4z
+admitted: '2026-11-14'

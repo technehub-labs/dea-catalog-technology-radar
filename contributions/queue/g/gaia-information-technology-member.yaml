@@ -1,21 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: cncf-landscape.json
 source_ref: CNCF Landscape / CNCF Members / Silver / Gaia Information Technology  (member)
 name: Gaia Information Technology  (member)
-description: Gaia Information Technology  (member) — Silver entry in the CNCF Landscape; homepage https://www.gaia.net/en.
-  Radar ring value is provisional.
+description: Gaia Information Technology  (member) — Silver entry in the CNCF Landscape;
+  homepage https://www.gaia.net/en. Radar ring value is provisional.
 radar_ring: assess
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://landscape.cncf.io/ (CNCF Landscape: CNCF Members / Silver / Gaia Information Technology  (member))'
-  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring is a provisional programmatic
-    mapping from the project maturity flag (graduated=adopt, incubating=trial, sandbox/unflagged=assess,
-    archived=hold); per-organization radar position is a canonical-admission decision.
+    reference: 'https://landscape.cncf.io/ (CNCF Landscape: CNCF Members / Silver
+      / Gaia Information Technology  (member))'
+  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring
+    is a provisional programmatic mapping from the project maturity flag (graduated=adopt,
+    incubating=trial, sandbox/unflagged=assess, archived=hold); per-organization radar
+    position is a canonical-admission decision.
 tags:
 - cncf-members
 - landscape
 - silver
 slug: gaia-information-technology-member
+assigned_id: dea:technology-radar-entry-gaia-information-technology-member-6359v2
+admitted: '2026-11-14'

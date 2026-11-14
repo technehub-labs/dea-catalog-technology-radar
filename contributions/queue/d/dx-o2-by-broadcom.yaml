@@ -1,22 +1,27 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: cncf-landscape.json
-source_ref: CNCF Landscape / Observability and Analysis / Observability / DX O2 by Broadcom
+source_ref: CNCF Landscape / Observability and Analysis / Observability / DX O2 by
+  Broadcom
 name: DX O2 by Broadcom
-description: DX O2 by Broadcom — Observability entry in the CNCF Landscape; homepage https://www.broadcom.com/products/software/aiops-observability/operational-observability.
+description: DX O2 by Broadcom — Observability entry in the CNCF Landscape; homepage
+  https://www.broadcom.com/products/software/aiops-observability/operational-observability.
   Radar ring value is provisional.
 radar_ring: assess
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://landscape.cncf.io/ (CNCF Landscape: Observability and Analysis / Observability
-      / DX O2 by Broadcom)'
-  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring is a provisional programmatic
-    mapping from the project maturity flag (graduated=adopt, incubating=trial, sandbox/unflagged=assess,
-    archived=hold); per-organization radar position is a canonical-admission decision.
+    reference: 'https://landscape.cncf.io/ (CNCF Landscape: Observability and Analysis
+      / Observability / DX O2 by Broadcom)'
+  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring
+    is a provisional programmatic mapping from the project maturity flag (graduated=adopt,
+    incubating=trial, sandbox/unflagged=assess, archived=hold); per-organization radar
+    position is a canonical-admission decision.
 tags:
 - landscape
 - observability
 - observability-and-analysis
 slug: dx-o2-by-broadcom
+assigned_id: dea:technology-radar-entry-dx-o2-by-broadcom-jsmbug
+admitted: '2026-11-14'

@@ -1,23 +1,27 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: cncf-landscape.json
-source_ref: CNCF Landscape / Orchestration & Management / Scheduling & Orchestration / Amazon Elastic
-  Container Service (ECS)
+source_ref: CNCF Landscape / Orchestration & Management / Scheduling & Orchestration
+  / Amazon Elastic Container Service (ECS)
 name: Amazon Elastic Container Service (ECS)
-description: Amazon Elastic Container Service (ECS) — Scheduling & Orchestration entry in the CNCF Landscape;
-  homepage https://aws.amazon.com/ecs/. Radar ring value is provisional.
+description: Amazon Elastic Container Service (ECS) — Scheduling & Orchestration entry
+  in the CNCF Landscape; homepage https://aws.amazon.com/ecs/. Radar ring value is
+  provisional.
 radar_ring: assess
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://landscape.cncf.io/ (CNCF Landscape: Orchestration & Management / Scheduling &
-      Orchestration / Amazon Elastic Container Service (ECS))'
-  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring is a provisional programmatic
-    mapping from the project maturity flag (graduated=adopt, incubating=trial, sandbox/unflagged=assess,
-    archived=hold); per-organization radar position is a canonical-admission decision.
+    reference: 'https://landscape.cncf.io/ (CNCF Landscape: Orchestration & Management
+      / Scheduling & Orchestration / Amazon Elastic Container Service (ECS))'
+  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring
+    is a provisional programmatic mapping from the project maturity flag (graduated=adopt,
+    incubating=trial, sandbox/unflagged=assess, archived=hold); per-organization radar
+    position is a canonical-admission decision.
 tags:
 - landscape
 - scheduling-orchestration
 - orchestration-management
 slug: amazon-elastic-container-service-ecs
+assigned_id: dea:technology-radar-entry-amazon-elastic-container-service-ecs-7u7zvx
+admitted: '2026-11-14'

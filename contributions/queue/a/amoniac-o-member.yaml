@@ -1,21 +1,25 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: cncf-landscape.json
 source_ref: CNCF Landscape / CNCF Members / Silver / Amoniac OÜ (member)
 name: Amoniac OÜ (member)
-description: Amoniac OÜ (member) — Silver entry in the CNCF Landscape; homepage https://amoniac.eu/. Radar
-  ring value is provisional.
+description: Amoniac OÜ (member) — Silver entry in the CNCF Landscape; homepage https://amoniac.eu/.
+  Radar ring value is provisional.
 radar_ring: assess
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://landscape.cncf.io/ (CNCF Landscape: CNCF Members / Silver / Amoniac OÜ (member))'
-  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring is a provisional programmatic
-    mapping from the project maturity flag (graduated=adopt, incubating=trial, sandbox/unflagged=assess,
-    archived=hold); per-organization radar position is a canonical-admission decision.
+    reference: 'https://landscape.cncf.io/ (CNCF Landscape: CNCF Members / Silver
+      / Amoniac OÜ (member))'
+  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring
+    is a provisional programmatic mapping from the project maturity flag (graduated=adopt,
+    incubating=trial, sandbox/unflagged=assess, archived=hold); per-organization radar
+    position is a canonical-admission decision.
 tags:
 - cncf-members
 - landscape
 - silver
 slug: amoniac-o-member
+assigned_id: dea:technology-radar-entry-amoniac-o-member-7qnzjg
+admitted: '2026-11-14'

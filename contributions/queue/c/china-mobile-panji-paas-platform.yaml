@@ -1,23 +1,27 @@
-status: queued
+status: admitted
 submitted_by: Emmanuel A. Otchere
 submitted: '2026-11-15'
 source_bank: cncf-landscape.json
-source_ref: CNCF Landscape / Orchestration & Management / Scheduling & Orchestration / China Mobile Panji
-  PaaS Platform
+source_ref: CNCF Landscape / Orchestration & Management / Scheduling & Orchestration
+  / China Mobile Panji PaaS Platform
 name: China Mobile Panji PaaS Platform
-description: China Mobile Panji PaaS Platform — Scheduling & Orchestration entry in the CNCF Landscape;
-  homepage https://it.10086.cn/services/paas/. Radar ring value is provisional.
+description: China Mobile Panji PaaS Platform — Scheduling & Orchestration entry in
+  the CNCF Landscape; homepage https://it.10086.cn/services/paas/. Radar ring value
+  is provisional.
 radar_ring: assess
 evidence:
   sources:
   - kind: published-document
-    reference: 'https://landscape.cncf.io/ (CNCF Landscape: Orchestration & Management / Scheduling &
-      Orchestration / China Mobile Panji PaaS Platform)'
-  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring is a provisional programmatic
-    mapping from the project maturity flag (graduated=adopt, incubating=trial, sandbox/unflagged=assess,
-    archived=hold); per-organization radar position is a canonical-admission decision.
+    reference: 'https://landscape.cncf.io/ (CNCF Landscape: Orchestration & Management
+      / Scheduling & Orchestration / China Mobile Panji PaaS Platform)'
+  rationale: Cited from the CNCF Landscape (cncf/landscape hosted YAML). radar_ring
+    is a provisional programmatic mapping from the project maturity flag (graduated=adopt,
+    incubating=trial, sandbox/unflagged=assess, archived=hold); per-organization radar
+    position is a canonical-admission decision.
 tags:
 - landscape
 - scheduling-orchestration
 - orchestration-management
 slug: china-mobile-panji-paas-platform
+assigned_id: dea:technology-radar-entry-china-mobile-panji-paas-platform-gfpb4d
+admitted: '2026-11-14'
