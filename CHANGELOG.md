@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+### CR-TRE-CAT-07: Canonical Admission Wave
+
+2442 TechnologyRadarEntry records promoted from the candidate slot to the canonical slot (provenance ladder completed per record; evidence citations preserved; ids untouched). Index: canonical 2442, candidates 0. All gates green.
+
 ### CR-TRE-CAT-05: TechnologyRadarEntry Candidate Admission Batch 02
 
 Admitted 1142 new `TechnologyRadarEntry` CANDIDATE records through the gated intake workflow (queue gate → admission tool → catalog gates); ids content-derived and collision-checked; records land in `candidates/` subtrees at `lifecycle_status: proposed` / version 0.1.0; candidates count +1142, canonical unchanged; queue entries flipped to `admitted`.
